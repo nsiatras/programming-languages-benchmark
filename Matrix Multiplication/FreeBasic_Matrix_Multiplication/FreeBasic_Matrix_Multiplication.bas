@@ -14,11 +14,11 @@ print "FreeBasic Matrix Multiplication Benchmark started. Please wait..."
 StartTime = Timer
 
 for benchmarkTests = 0 to 4
-   ' Add random values to Arrays A and B
+   ' Add random values to Arrays A and B (0 to 1)
    for i=0 to fCount - 1
       for j=0 to fCount - 1
-          fArrayA(i,j) = RND * 100000
-          fArrayB(i,j) = RND * 100000
+          fArrayA(i,j) = RND
+          fArrayB(i,j) = RND 
           fArrayC(i,j) = 0
       next j
    next i   
