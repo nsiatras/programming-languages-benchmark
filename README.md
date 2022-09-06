@@ -14,6 +14,7 @@ Each experiment is run 5 times and the total time it took to complete is display
 | C             | 28.1500       |gcc.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0|
 | C#            | 56.1140       |.NET Framework 6.0        |
 | Python        | 4426.7331     |Python 3.10.7        |
+| FreePascal / Delphi| Coming soon...     |        |
 
 The <b>winner is Java</b> with 22.1462 seconds and the <b>Looser is Python</b> with 4426.7331 seconds.<br>
 Conclusion: <b>Python is 199.886 times slower than Java</b>
