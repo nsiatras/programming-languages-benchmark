@@ -1,0 +1,15 @@
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\bin\Release\net6.0\CSharp_Matrix_Multiplication.exe
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\bin\Release\net6.0\CSharp_Matrix_Multiplication.deps.json
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\bin\Release\net6.0\CSharp_Matrix_Multiplication.runtimeconfig.json
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\bin\Release\net6.0\CSharp_Matrix_Multiplication.dll
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\bin\Release\net6.0\CSharp_Matrix_Multiplication.pdb
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.csproj.AssemblyReference.cache
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.AssemblyInfoInputs.cache
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.AssemblyInfo.cs
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.csproj.CoreCompileInputs.cache
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.dll
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\refint\CSharp_Matrix_Multiplication.dll
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.pdb
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\CSharp_Matrix_Multiplication.genruntimeconfig.cache
+C:\Development\programming-languages-benchmark\Matrix Multiplication\C#_Matrix_Multiplication\CSharp_Matrix_Multiplication\obj\Release\net6.0\ref\CSharp_Matrix_Multiplication.dll
