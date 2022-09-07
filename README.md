@@ -22,6 +22,6 @@ Java is 199.886 times faster than Python
 
 
 ##  Machine Information
-All results have come from the same PC, whose characteristics are as follows:<br><br>
+All results have come from the same PC with the following specs:<br><br>
 <img src="https://github.com/nsiatras/programming-languages-benchmark/blob/main/Images/CPUZ_1.png" alt="CPUZ #1">
 <img src="https://github.com/nsiatras/programming-languages-benchmark/blob/main/Images/CPUZ_2.png" alt="CPUZ #2">
