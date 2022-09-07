@@ -17,8 +17,7 @@ Each experiment is run 5 times and the total time it took to complete is display
 | Python        | 4426.7331     |Python 3.10.7        |
 
 ### Conclusion: 
-FreePascal is 1.054 times faster than Java, Java Is 1.26 times faster than C and Python proves that sometimes pencil and paper is a way faster method to perform calculations.
-
+FreePascal is 1.054 times faster than Java, Java Is 1.26 times faster than C and Python proves that sometimes it is faster to perform calculations using a pencil and a piece of paper. 
 
 ##  Machine Information
 All results have come from the same PC with the following details:<br><br>
