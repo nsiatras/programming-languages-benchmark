@@ -17,8 +17,7 @@ Each experiment is run 5 times and the total time it took to complete is display
 | Python        | 4426.7331     |Python 3.10.7        |
 
 ### Conclusion: 
-FreePascal / Delphi is 1.054 times faster than Java<br>
-Java is 199.886 times faster than Python
+FreePascal is 1.054 times faster than Java, Java Is 1.26 times faster than C and Python proves that sometimes pencil and paper is a way faster method to perform calculations.
 
 
 ##  Machine Information
