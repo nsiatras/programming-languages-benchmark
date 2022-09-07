@@ -9,15 +9,16 @@ Each experiment is run 5 times and the total time it took to complete is display
 
 | Language  | Elapsed Time (Seconds) | Notes |
 | ------------- | ------------- |------------- |
+| FreePascal / Delphi| 21.0020  | Free Pascal Compiler (FPC) 3.2.2.       |
 | Java          | 22.1462       | OpenJDK version 17.0.4  |
 | FreeBasic     | 25.8051       |FreeBASIC 1.09.0         |
 | C             | 28.1500       |gcc.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0|
 | C#            | 56.1140       |.NET Framework 6.0        |
 | Python        | 4426.7331     |Python 3.10.7        |
-| FreePascal / Delphi| Coming soon...     |        |
 
-The <b>winner is Java</b> with 22.1462 seconds and the <b>Looser is Python</b> with 4426.7331 seconds.<br>
-Conclusion: <b>Python is 199.886 times slower than Java</b>
+### Conclusion: 
+FreePascal / Delphi is 1.054 times faster than Java<br>
+Java is 199.886 times faster than Python
 
 
 ##  Machine Information
