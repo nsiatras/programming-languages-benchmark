@@ -7,6 +7,7 @@
 double fArrayA[n][n];
 double fArrayB[n][n];
 double fArrayC[n][n];
+double getSecondsFromTicks();
 
 void RunBenchmark()
 {
@@ -32,27 +33,30 @@ void RunBenchmark()
             }
         }
     }
-
-    return 0;
 }
 
 int main()
 {
     int i = 0;
-
-    struct timespec start, end;
-    double time_spent;
+    double timeStart, timeFinish;
 
     printf("C Matrix Multiplication Benchmark started. Please wait...\n");
 
-    clock_gettime(CLOCK_REALTIME, &start);
-    for(i=0; i<4; i++)
+    timeStart = getSecondsFromTicks();
+    for(i=0; i < 4; i++)
     {
         RunBenchmark();
     }
+    timeFinish = getSecondsFromTicks();
 
-    clock_gettime(CLOCK_REALTIME, &end);
-    time_spent = (end.tv_sec - start.tv_sec) + (end.tv_nsec - start.tv_nsec) / 1000000000.0;
+    printf("C Matrix Multiplication Benchmark finished in %f seconds \n" , timeFinish - timeStart);
+}
 
-    printf("C Matrix Multiplication Benchmark finished in %f seconds \n" , time_spent);
+double getSecondsFromTicks()
+{
+    clock_t ticks;
+    double et;
+    ticks = clock();
+    et = (double)ticks / CLOCKS_PER_SEC;
+    return et;
 }

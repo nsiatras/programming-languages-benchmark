@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1662459053 source:c:\development\programming-languages-benchmark\matrix multiplication\c_matrix_multiplication\main.c
+1662534313 source:c:\development\programming-languages-benchmark\matrix multiplication\c_matrix_multiplication\main.c
 	<stdlib.h>
 	<stdio.h>
 	<time.h>
